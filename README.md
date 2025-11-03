@@ -7,11 +7,11 @@ Tweak that enable [Citizen](https://apps.apple.com/us/app/citizen-local-safety-a
 
 ## History
 
-I found out a few weeks ago how to interact with Citizen app, I contacted them 5 times but they didn't get back to me.
+I found out how to interact with Citizen app
 
 So here's the free tweak
 
-Tried on : iPhone 13, iOS 17.5.1, Citizen 0.1192.0
+Latest build tested on : iOS 26.1, Citizen 0.1267.0
 
 ## How to install?
 
@@ -19,13 +19,13 @@ Tried on : iPhone 13, iOS 17.5.1, Citizen 0.1192.0
 
 - You can install it on a jailbroken device.
 
-- You can inject it with Esign.
+- Or you can use your favorite signing service.
 
 ## To be fixed
 
-- 'Ultra 911' tab crashing.
+~~- 'Ultra 911' tab crashing.~~
 
-- Bug with 'transcription' feature for radio ("Unlock with Plus" prompted sometimes).
+~~- Bug with 'transcription' feature for radio ("Unlock with Plus" prompted sometimes).~~
 
 ## Contributions
 
